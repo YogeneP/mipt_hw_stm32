@@ -1,0 +1,1081 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+                              build/genericSTM32F411CE/src/Core/Src/syscalls.o (__errno)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o (exit)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o (__libc_init_array)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o (memset)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+                              build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o (__aeabi_ldivmod)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+                              build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o (__aeabi_uldivmod)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_dvmd_tls.o)
+                              /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+uwTick              0x4               build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+__lock___env_recursive_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ihex                0x108             build/genericSTM32F411CE/src/Core/Src/main.o
+__lock___at_quick_exit_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+ .data          0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+ .text          0x0000000000000000       0x74 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/gpio.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/gpio.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/gpio.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .text.ihex_read_at_address
+                0x0000000000000000        0xa build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/main.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/main.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/main.o
+ .text          0x0000000000000000       0x14 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text.initialise_monitor_handles
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._getpid  0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._kill    0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._exit    0x0000000000000000        0xc build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._read    0x0000000000000000       0x1c build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._write   0x0000000000000000       0x1c build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._close   0x0000000000000000        0x6 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._fstat   0x0000000000000000        0xa build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._isatty  0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._lseek   0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._open    0x0000000000000000        0xa build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._wait    0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._unlink  0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._times   0x0000000000000000        0x6 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._stat    0x0000000000000000        0xa build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._link    0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._fork    0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text._execve  0x0000000000000000       0x10 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .bss.__env     0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .data.environ  0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Core/Src/syscalls.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .text._sbrk    0x0000000000000000       0x40 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Core/Src/sysmem.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x74 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_MspInit
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetTickPrio
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x28 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetTickFreq
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_Delay
+                0x0000000000000000       0x28 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetHalVersion
+                0x0000000000000000        0x8 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetREVID
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_EnableCompensationCell
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_DisableCompensationCell
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetUIDw0
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetUIDw1
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text.HAL_GetUIDw2
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000000000000       0x1c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x28 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_Disable
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_Enable
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_EnableRegion
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_DisableRegion
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_MPU_ConfigRegion
+                0x0000000000000000       0x4c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_CORTEX_ClearEvent
+                0x0000000000000000        0x6 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x5c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0x8 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.DMA_CalcBaseAndBitshift
+                0x0000000000000000       0x2c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Init
+                0x0000000000000000       0xfc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0x54 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x54 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0x74 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x86 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x10c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x17c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x50 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0x5c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_GetState
+                0x0000000000000000        0x6 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text.HAL_DMA_GetError
+                0x0000000000000000        0x4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .rodata.flagBitshiftOffset.6119
+                0x0000000000000000        0x8 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_MultiBufferStart
+                0x0000000000000000       0x5a build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x0000000000000000      0xaa4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .text.HAL_DMAEx_ChangeMemory
+                0x0000000000000000        0xe build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000       0xa4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000       0x8c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0x68 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x1c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x68 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000       0xbc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_GetError
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xb4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x48 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_AdvOBProgram
+                0x0000000000000000       0x40 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_AdvOBGetConfig
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OB_SelectPCROP
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OB_DeSelectPCROP
+                0x0000000000000000       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0x54 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .RamFunc       0x0000000000000000       0xc0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000       0xec build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000       0x12 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x2a build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x1c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x1c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0x70 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x3c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x1c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBkUpReg
+                0x0000000000000000       0x34 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBkUpReg
+                0x0000000000000000       0x34 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVoltageRange
+                0x0000000000000000       0x10 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x0000000000000000       0xb0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableMainRegulatorLowVoltage
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableMainRegulatorLowVoltage
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableLowRegulatorLowVoltage
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableLowRegulatorLowVoltage
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .comment       0x0000000000000000       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x0000000000000000        0x4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x94 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000       0x9c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x3c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .text          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .data          0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .bss           0x0000000000000000        0x0 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x140 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0x48 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000       0x60 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_SelectLSEMode
+                0x0000000000000000       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x0000000000000000       0x64 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x0000000000000000       0x30 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xe8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xa0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000000       0x44 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+ .text          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+ .data          0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+ .bss           0x0000000000000000        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000020000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+LOAD build/genericSTM32F411CE/src/Core/Src/gpio.o
+LOAD build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+LOAD build/genericSTM32F411CE/src/Core/Src/main.o
+LOAD build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+LOAD build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+LOAD build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+LOAD build/genericSTM32F411CE/src/Core/Src/syscalls.o
+LOAD build/genericSTM32F411CE/src/Core/Src/sysmem.o
+LOAD build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+LOAD build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+START GROUP
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libm.a
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libstdc++.a
+END GROUP
+START GROUP
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a
+END GROUP
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtend.o
+LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+                0x0000000020020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x000000002001fc00                _sstack = (_estack - _Min_Stack_Size)
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x198
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x198 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000198                . = ALIGN (0x4)
+
+.text           0x0000000008000198     0x1778
+                0x0000000008000198                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000198       0x40 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+ .text          0x00000000080001d8       0x30 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+                0x00000000080001d8                __aeabi_uldivmod
+ .text          0x0000000008000208      0x2cc /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+                0x0000000008000208                __udivmoddi4
+ .text          0x00000000080004d4        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_dvmd_tls.o)
+                0x00000000080004d4                __aeabi_ldiv0
+                0x00000000080004d4                __aeabi_idiv0
+ *(.text*)
+ .text.MX_GPIO_Init
+                0x00000000080004d8       0x7c build/genericSTM32F411CE/src/Core/Src/gpio.o
+                0x00000000080004d8                MX_GPIO_Init
+ .text.ihex_begin_read
+                0x0000000008000554        0xa build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+                0x0000000008000554                ihex_begin_read
+ .text.ihex_end_read
+                0x000000000800055e       0x5e build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+                0x000000000800055e                ihex_end_read
+ .text.ihex_read_byte
+                0x00000000080005bc       0xaa build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+                0x00000000080005bc                ihex_read_byte
+ .text.ihex_read_bytes
+                0x0000000008000666       0x1c build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+                0x0000000008000666                ihex_read_bytes
+ .text.Flash_EraseSector7
+                0x0000000008000682       0x30 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000008000682                Flash_EraseSector7
+ .text.Flash_WriteBuffer
+                0x00000000080006b2       0x8c build/genericSTM32F411CE/src/Core/Src/main.o
+                0x00000000080006b2                Flash_WriteBuffer
+ *fill*         0x000000000800073e        0x2 
+ .text.ihex_data_read
+                0x0000000008000740       0x50 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000008000740                ihex_data_read
+ .text.Error_Handler
+                0x0000000008000790       0x3c build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000008000790                Error_Handler
+ .text.SystemClock_Config
+                0x00000000080007cc       0x88 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x00000000080007cc                SystemClock_Config
+ .text.jumpToApp
+                0x0000000008000854       0x6c build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000008000854                jumpToApp
+ .text.startup.main
+                0x00000000080008c0       0xc0 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x00000000080008c0                main
+ .text.Reset_Handler
+                0x0000000008000980       0x50 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+                0x0000000008000980                Reset_Handler
+ .text.Default_Handler
+                0x00000000080009d0        0x2 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+                0x00000000080009d0                RTC_Alarm_IRQHandler
+                0x00000000080009d0                EXTI2_IRQHandler
+                0x00000000080009d0                SPI4_IRQHandler
+                0x00000000080009d0                TIM1_CC_IRQHandler
+                0x00000000080009d0                DMA2_Stream5_IRQHandler
+                0x00000000080009d0                DMA1_Stream5_IRQHandler
+                0x00000000080009d0                PVD_IRQHandler
+                0x00000000080009d0                SDIO_IRQHandler
+                0x00000000080009d0                TAMP_STAMP_IRQHandler
+                0x00000000080009d0                EXTI3_IRQHandler
+                0x00000000080009d0                TIM1_UP_TIM10_IRQHandler
+                0x00000000080009d0                I2C3_ER_IRQHandler
+                0x00000000080009d0                EXTI0_IRQHandler
+                0x00000000080009d0                I2C2_EV_IRQHandler
+                0x00000000080009d0                DMA1_Stream2_IRQHandler
+                0x00000000080009d0                FPU_IRQHandler
+                0x00000000080009d0                DMA2_Stream2_IRQHandler
+                0x00000000080009d0                SPI1_IRQHandler
+                0x00000000080009d0                TIM1_BRK_TIM9_IRQHandler
+                0x00000000080009d0                DMA2_Stream3_IRQHandler
+                0x00000000080009d0                USART6_IRQHandler
+                0x00000000080009d0                DMA2_Stream0_IRQHandler
+                0x00000000080009d0                TIM4_IRQHandler
+                0x00000000080009d0                I2C1_EV_IRQHandler
+                0x00000000080009d0                DMA1_Stream6_IRQHandler
+                0x00000000080009d0                DMA1_Stream1_IRQHandler
+                0x00000000080009d0                TIM3_IRQHandler
+                0x00000000080009d0                RCC_IRQHandler
+                0x00000000080009d0                Default_Handler
+                0x00000000080009d0                EXTI15_10_IRQHandler
+                0x00000000080009d0                ADC_IRQHandler
+                0x00000000080009d0                DMA1_Stream7_IRQHandler
+                0x00000000080009d0                SPI5_IRQHandler
+                0x00000000080009d0                TIM5_IRQHandler
+                0x00000000080009d0                DMA2_Stream7_IRQHandler
+                0x00000000080009d0                I2C3_EV_IRQHandler
+                0x00000000080009d0                EXTI9_5_IRQHandler
+                0x00000000080009d0                RTC_WKUP_IRQHandler
+                0x00000000080009d0                SPI2_IRQHandler
+                0x00000000080009d0                DMA1_Stream0_IRQHandler
+                0x00000000080009d0                EXTI4_IRQHandler
+                0x00000000080009d0                WWDG_IRQHandler
+                0x00000000080009d0                TIM2_IRQHandler
+                0x00000000080009d0                OTG_FS_WKUP_IRQHandler
+                0x00000000080009d0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x00000000080009d0                EXTI1_IRQHandler
+                0x00000000080009d0                USART2_IRQHandler
+                0x00000000080009d0                I2C2_ER_IRQHandler
+                0x00000000080009d0                DMA2_Stream1_IRQHandler
+                0x00000000080009d0                FLASH_IRQHandler
+                0x00000000080009d0                DMA2_Stream4_IRQHandler
+                0x00000000080009d0                USART1_IRQHandler
+                0x00000000080009d0                OTG_FS_IRQHandler
+                0x00000000080009d0                SPI3_IRQHandler
+                0x00000000080009d0                DMA1_Stream4_IRQHandler
+                0x00000000080009d0                I2C1_ER_IRQHandler
+                0x00000000080009d0                DMA2_Stream6_IRQHandler
+                0x00000000080009d0                DMA1_Stream3_IRQHandler
+ *fill*         0x00000000080009d2        0x2 
+ .text.HAL_MspInit
+                0x00000000080009d4       0x38 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+                0x00000000080009d4                HAL_MspInit
+ .text.NMI_Handler
+                0x0000000008000a0c        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a0c                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000008000a0e        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a0e                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008000a10        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a10                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008000a12        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a12                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008000a14        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a14                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000008000a16        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a16                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008000a18        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a18                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008000a1a        0x2 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a1a                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008000a1c        0x4 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+                0x0000000008000a1c                SysTick_Handler
+ .text.SystemInit
+                0x0000000008000a20        0x2 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+                0x0000000008000a20                SystemInit
+ .text.HAL_MspDeInit
+                0x0000000008000a22        0x2 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000a22                HAL_MspDeInit
+ .text.HAL_DeInit
+                0x0000000008000a24       0x40 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000a24                HAL_DeInit
+ .text.HAL_InitTick
+                0x0000000008000a64       0x48 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000a64                HAL_InitTick
+ .text.HAL_Init
+                0x0000000008000aac       0x34 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000aac                HAL_Init
+ .text.HAL_IncTick
+                0x0000000008000ae0       0x18 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000ae0                HAL_IncTick
+ .text.HAL_GetTick
+                0x0000000008000af8        0xc build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000008000af8                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0000000008000b04       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+                0x0000000008000b04                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000008000b28       0x68 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+                0x0000000008000b28                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0000000008000b90       0x2c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+                0x0000000008000b90                HAL_SYSTICK_Config
+ .text.FLASH_Program_DoubleWord
+                0x0000000008000bbc       0x2c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.FLASH_Program_Word
+                0x0000000008000be8       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.FLASH_Program_HalfWord
+                0x0000000008000c0c       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.FLASH_SetErrorCode
+                0x0000000008000c30       0x8c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .text.HAL_FLASH_Unlock
+                0x0000000008000cbc       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+                0x0000000008000cbc                HAL_FLASH_Unlock
+ .text.HAL_FLASH_Lock
+                0x0000000008000ce0       0x14 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+                0x0000000008000ce0                HAL_FLASH_Lock
+ .text.FLASH_WaitForLastOperation
+                0x0000000008000cf4       0x54 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+                0x0000000008000cf4                FLASH_WaitForLastOperation
+ .text.HAL_FLASH_Program
+                0x0000000008000d48       0x8c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+                0x0000000008000d48                HAL_FLASH_Program
+ .text.FLASH_MassErase.isra.0
+                0x0000000008000dd4       0x24 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .text.FLASH_Erase_Sector
+                0x0000000008000df8       0x4c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+                0x0000000008000df8                FLASH_Erase_Sector
+ .text.FLASH_FlushCaches
+                0x0000000008000e44       0x58 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+                0x0000000008000e44                FLASH_FlushCaches
+ .text.HAL_FLASHEx_Erase
+                0x0000000008000e9c       0x9c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+                0x0000000008000e9c                HAL_FLASHEx_Erase
+ .text.HAL_GPIO_Init
+                0x0000000008000f38      0x1b4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+                0x0000000008000f38                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x00000000080010ec        0xa build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+                0x00000000080010ec                HAL_GPIO_WritePin
+ *fill*         0x00000000080010f6        0x2 
+ .text.HAL_RCC_OscConfig
+                0x00000000080010f8      0x358 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+                0x00000000080010f8                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008001450       0x5c build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+                0x0000000008001450                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x00000000080014ac      0x134 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+                0x00000000080014ac                HAL_RCC_ClockConfig
+ .text.HAL_RCC_DeInit
+                0x00000000080015e0      0x120 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+                0x00000000080015e0                HAL_RCC_DeInit
+ .text.__libc_init_array
+                0x0000000008001700       0x48 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+                0x0000000008001700                __libc_init_array
+ .text.memset   0x0000000008001748       0x94 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+                0x0000000008001748                memset
+ .text.startup.register_fini
+                0x00000000080017dc       0x14 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00000000080017f0        0xc /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+                0x00000000080017f0                atexit
+ .text.__libc_fini_array
+                0x00000000080017fc       0x34 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+                0x00000000080017fc                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008001830        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+                0x0000000008001830                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008001834        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+                0x0000000008001834                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000008001838       0xc0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+                0x0000000008001838                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000080018f8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000080018f8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000080018f8        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+ *(.init)
+ .init          0x00000000080018f8        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+                0x00000000080018f8                _init
+ .init          0x00000000080018fc        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008001904        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+                0x0000000008001904                _fini
+ .fini          0x0000000008001908        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+                0x0000000008001910                . = ALIGN (0x4)
+                0x0000000008001910                _etext = .
+
+.vfp11_veneer   0x0000000008001910        0x0
+ .vfp11_veneer  0x0000000008001910        0x0 linker stubs
+
+.v4_bx          0x0000000008001910        0x0
+ .v4_bx         0x0000000008001910        0x0 linker stubs
+
+.iplt           0x0000000008001910        0x0
+ .iplt          0x0000000008001910        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+
+.rodata         0x0000000008001910      0x960
+                0x0000000008001910                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x0000000008001910      0x94c build/genericSTM32F411CE/src/Core/Src/main.o
+ .rodata.AHBPrescTable
+                0x000000000800225c       0x10 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+                0x000000000800225c                AHBPrescTable
+ .rodata._global_impure_ptr
+                0x000000000800226c        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+                0x000000000800226c                _global_impure_ptr
+                0x0000000008002270                . = ALIGN (0x4)
+
+.ARM.extab      0x0000000008002270        0x0
+                0x0000000008002270                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008002270                . = ALIGN (0x4)
+
+.ARM            0x0000000008002270        0x8
+                0x0000000008002270                . = ALIGN (0x4)
+                0x0000000008002270                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0000000008002270        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+                0x0000000008002278                __exidx_end = .
+                0x0000000008002278                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008002278        0x0
+ .rel.iplt      0x0000000008002278        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+
+.preinit_array  0x0000000008002278        0x0
+                0x0000000008002278                . = ALIGN (0x4)
+                0x0000000008002278                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0000000008002278                PROVIDE (__preinit_array_end, .)
+                0x0000000008002278                . = ALIGN (0x4)
+
+.init_array     0x0000000008002278        0x8
+                0x0000000008002278                . = ALIGN (0x4)
+                0x0000000008002278                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000008002278        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x000000000800227c        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+                0x0000000008002280                PROVIDE (__init_array_end, .)
+                0x0000000008002280                . = ALIGN (0x4)
+
+.fini_array     0x0000000008002280        0x4
+                0x0000000008002280                . = ALIGN (0x4)
+                0x0000000008002280                PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002280        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+                0x0000000008002284                PROVIDE (__fini_array_end, .)
+                0x0000000008002284                . = ALIGN (0x4)
+                0x0000000008002284                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x45c load address 0x0000000008002284
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.transfer_ok
+                0x0000000020000000        0x4 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000020000000                transfer_ok
+ .data.SystemCoreClock
+                0x0000000020000004        0x4 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+                0x0000000020000004                SystemCoreClock
+ .data.uwTickFreq
+                0x0000000020000008        0x1 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000020000008                uwTickFreq
+ *fill*         0x0000000020000009        0x3 
+ .data.uwTickPrio
+                0x000000002000000c        0x4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x000000002000000c                uwTickPrio
+ .data.pFlash   0x0000000020000010       0x20 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+                0x0000000020000010                pFlash
+ .data.impure_data
+                0x0000000020000030      0x428 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000458        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000458                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x000000002000045c                . = ALIGN (0x4)
+                0x000000002000045c                _edata = .
+
+.igot.plt       0x000000002000045c        0x0 load address 0x00000000080026e0
+ .igot.plt      0x000000002000045c        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+                0x000000002000045c                . = ALIGN (0x4)
+
+.bss            0x000000002000045c      0x150 load address 0x00000000080026e0
+                0x000000002000045c                _sbss = .
+                0x000000002000045c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000045c       0x1c /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+ *(.bss*)
+ .bss.eof_reached
+                0x0000000020000478        0x4 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000020000478                eof_reached
+ *(COMMON)
+ COMMON         0x000000002000047c      0x108 build/genericSTM32F411CE/src/Core/Src/main.o
+                0x000000002000047c                ihex
+ COMMON         0x0000000020000584        0x4 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+                0x0000000020000584                uwTick
+ COMMON         0x0000000020000588       0x21 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+                0x0000000020000588                __lock___atexit_recursive_mutex
+                0x000000002000058c                __lock___arc4random_mutex
+                0x0000000020000590                __lock___env_recursive_mutex
+                0x0000000020000594                __lock___sinit_recursive_mutex
+                0x0000000020000598                __lock___malloc_recursive_mutex
+                0x000000002000059c                __lock___at_quick_exit_mutex
+                0x00000000200005a0                __lock___dd_hash_mutex
+                0x00000000200005a4                __lock___tz_mutex
+                0x00000000200005a8                __lock___sfp_recursive_mutex
+                0x00000000200005ac                . = ALIGN (0x4)
+ *fill*         0x00000000200005a9        0x3 
+                0x00000000200005ac                _ebss = .
+                0x00000000200005ac                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200005ac      0x604 load address 0x00000000080026e0
+                0x00000000200005b0                . = ALIGN (0x8)
+ *fill*         0x00000000200005ac        0x4 
+                [!provide]                        PROVIDE (end, .)
+                0x00000000200005b0                PROVIDE (_end, .)
+                0x00000000200007b0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200005b0      0x200 
+                0x0000000020000bb0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200007b0      0x400 
+                0x0000000020000bb0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(build/genericSTM32F411CE/firmware.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x33 build/genericSTM32F411CE/src/Core/Src/gpio.o
+ .ARM.attributes
+                0x000000000000007f       0x33 build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .ARM.attributes
+                0x00000000000000b2       0x33 build/genericSTM32F411CE/src/Core/Src/main.o
+ .ARM.attributes
+                0x00000000000000e5       0x21 build/genericSTM32F411CE/src/Core/Src/startup_stm32f411xe.o
+ .ARM.attributes
+                0x0000000000000106       0x33 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+ .ARM.attributes
+                0x0000000000000139       0x33 build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+ .ARM.attributes
+                0x000000000000016c       0x33 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .ARM.attributes
+                0x000000000000019f       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .ARM.attributes
+                0x00000000000001d2       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .ARM.attributes
+                0x0000000000000205       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .ARM.attributes
+                0x0000000000000238       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .ARM.attributes
+                0x000000000000026b       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .ARM.attributes
+                0x000000000000029e       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .ARM.attributes
+                0x00000000000002d1       0x33 build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .ARM.attributes
+                0x0000000000000304       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000332       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000360       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000038e       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000003bc       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000003ea       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000418       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000446       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000474       0x1e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000492       0x2e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000000004c0       0x1e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000004de       0x1e /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtn.o
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e build/genericSTM32F411CE/src/Core/Src/gpio.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Core/Src/kk_ihex_read.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Core/Src/main.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Core/Src/stm32f4xx_hal_msp.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Core/Src/stm32f4xx_it.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .comment       0x000000000000007e       0x7f build/genericSTM32F411CE/src/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+
+.debug_frame    0x0000000000000000      0x258
+ .debug_frame   0x0000000000000000       0x2c /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000002c       0x38 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000064       0x5c /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000000c0       0x20 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000000e0       0x34 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000114       0xb0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000000001c4       0x34 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000001f8       0x2c /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000224       0x34 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)

@@ -1,0 +1,55 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Core/Inc",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS/Include",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/lib/crypto",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS",
+                "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Core/Inc",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS/Include",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Inc",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/lib/crypto",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/CMSIS",
+                    "/home/user/Documents/mipt/mipt_hw_stm32/hw8/Drivers/STM32F4xx_HAL_Driver/Src",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=100000000L",
+                "PLATFORMIO=60200",
+                "STM32F4",
+                "STM32F411xE",
+                "STM32F4xx",
+                "STM32F411xE",
+                ""
+            ],
+            "compilerPath": "/home/user/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
