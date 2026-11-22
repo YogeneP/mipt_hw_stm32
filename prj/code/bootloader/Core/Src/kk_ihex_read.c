@@ -96,7 +96,7 @@ ihex_read_byte (struct ihex_state * const ihex, const char byte) {
     uint_fast8_t state = (ihex->flags & IHEX_READ_STATE_MASK);
     ihex->flags ^= state; // turn off the old state
     state >>= IHEX_READ_STATE_OFFSET;
-
+    
     if (b >= '0' && b <= '9') {
         b -= '0';
     } else if (b >= 'A' && b <= 'F') {

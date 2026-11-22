@@ -855,65 +855,66 @@ LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../l
 .iplt           0x0000000008001910        0x0
  .iplt          0x0000000008001910        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
 
-.rodata         0x0000000008001910      0x960
+.rodata         0x0000000008001910      0x9f0
                 0x0000000008001910                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.1
-                0x0000000008001910      0x94c build/genericSTM32F411CE/src/Core/Src/main.o
+                0x0000000008001910      0x9d9 build/genericSTM32F411CE/src/Core/Src/main.o
  .rodata.AHBPrescTable
-                0x000000000800225c       0x10 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
-                0x000000000800225c                AHBPrescTable
+                0x00000000080022e9       0x10 build/genericSTM32F411CE/src/Core/Src/system_stm32f4xx.o
+                0x00000000080022e9                AHBPrescTable
+ *fill*         0x00000000080022f9        0x3 
  .rodata._global_impure_ptr
-                0x000000000800226c        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
-                0x000000000800226c                _global_impure_ptr
-                0x0000000008002270                . = ALIGN (0x4)
+                0x00000000080022fc        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-impure.o)
+                0x00000000080022fc                _global_impure_ptr
+                0x0000000008002300                . = ALIGN (0x4)
 
-.ARM.extab      0x0000000008002270        0x0
-                0x0000000008002270                . = ALIGN (0x4)
+.ARM.extab      0x0000000008002300        0x0
+                0x0000000008002300                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0000000008002270                . = ALIGN (0x4)
+                0x0000000008002300                . = ALIGN (0x4)
 
-.ARM            0x0000000008002270        0x8
-                0x0000000008002270                . = ALIGN (0x4)
-                0x0000000008002270                __exidx_start = .
+.ARM            0x0000000008002300        0x8
+                0x0000000008002300                . = ALIGN (0x4)
+                0x0000000008002300                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x0000000008002270        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
-                0x0000000008002278                __exidx_end = .
-                0x0000000008002278                . = ALIGN (0x4)
+ .ARM.exidx     0x0000000008002300        0x8 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/libgcc.a(_udivmoddi4.o)
+                0x0000000008002308                __exidx_end = .
+                0x0000000008002308                . = ALIGN (0x4)
 
-.rel.dyn        0x0000000008002278        0x0
- .rel.iplt      0x0000000008002278        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+.rel.dyn        0x0000000008002308        0x0
+ .rel.iplt      0x0000000008002308        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
 
-.preinit_array  0x0000000008002278        0x0
-                0x0000000008002278                . = ALIGN (0x4)
-                0x0000000008002278                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x0000000008002308        0x0
+                0x0000000008002308                . = ALIGN (0x4)
+                0x0000000008002308                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x0000000008002278                PROVIDE (__preinit_array_end, .)
-                0x0000000008002278                . = ALIGN (0x4)
+                0x0000000008002308                PROVIDE (__preinit_array_end, .)
+                0x0000000008002308                . = ALIGN (0x4)
 
-.init_array     0x0000000008002278        0x8
-                0x0000000008002278                . = ALIGN (0x4)
-                0x0000000008002278                PROVIDE (__init_array_start, .)
+.init_array     0x0000000008002308        0x8
+                0x0000000008002308                . = ALIGN (0x4)
+                0x0000000008002308                PROVIDE (__init_array_start, .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x0000000008002278        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
+                0x0000000008002308        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x000000000800227c        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
-                0x0000000008002280                PROVIDE (__init_array_end, .)
-                0x0000000008002280                . = ALIGN (0x4)
+ .init_array    0x000000000800230c        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+                0x0000000008002310                PROVIDE (__init_array_end, .)
+                0x0000000008002310                . = ALIGN (0x4)
 
-.fini_array     0x0000000008002280        0x4
-                0x0000000008002280                . = ALIGN (0x4)
-                0x0000000008002280                PROVIDE (__fini_array_start, .)
+.fini_array     0x0000000008002310        0x4
+                0x0000000008002310                . = ALIGN (0x4)
+                0x0000000008002310                PROVIDE (__fini_array_start, .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000000008002280        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
-                0x0000000008002284                PROVIDE (__fini_array_end, .)
-                0x0000000008002284                . = ALIGN (0x4)
-                0x0000000008002284                _sidata = LOADADDR (.data)
+ .fini_array    0x0000000008002310        0x4 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
+                0x0000000008002314                PROVIDE (__fini_array_end, .)
+                0x0000000008002314                . = ALIGN (0x4)
+                0x0000000008002314                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000      0x45c load address 0x0000000008002284
+.data           0x0000000020000000      0x45c load address 0x0000000008002314
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -943,11 +944,11 @@ LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../l
                 0x000000002000045c                . = ALIGN (0x4)
                 0x000000002000045c                _edata = .
 
-.igot.plt       0x000000002000045c        0x0 load address 0x00000000080026e0
+.igot.plt       0x000000002000045c        0x0 load address 0x0000000008002770
  .igot.plt      0x000000002000045c        0x0 /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/crtbegin.o
                 0x000000002000045c                . = ALIGN (0x4)
 
-.bss            0x000000002000045c      0x150 load address 0x00000000080026e0
+.bss            0x000000002000045c      0x150 load address 0x0000000008002770
                 0x000000002000045c                _sbss = .
                 0x000000002000045c                __bss_start__ = _sbss
  *(.bss)
@@ -977,7 +978,7 @@ LOAD /home/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/../l
                 0x00000000200005ac                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x00000000200005ac      0x604 load address 0x00000000080026e0
+                0x00000000200005ac      0x604 load address 0x0000000008002770
                 0x00000000200005b0                . = ALIGN (0x8)
  *fill*         0x00000000200005ac        0x4 
                 [!provide]                        PROVIDE (end, .)
